@@ -1,0 +1,14 @@
+
+mddr.cache/
+
+mddr.gen/
+
+mddr.hw/
+
+mddr.ip_user_files/
+
+mddr.runs/
+
+*.jou
+
+*.log
